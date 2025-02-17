@@ -1,10 +1,11 @@
 import React, { useEffect, useState } from "react";
-
+//import list from "../../public/list.json";  // Adjust the path according to your project structure
+import axios from 'axios';
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import Slider from "react-slick";
 
-import axios from "axios";
+
 
 import Cards from "./Cards";
 function Freebook() {
@@ -64,9 +65,7 @@ function Freebook() {
         <div>
           <h1 className="font-semibold text-xl pb-2">Free Offered Courses</h1>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-            Accusantium veritatis alias pariatur ad dolor repudiandae eligendi
-            corporis nulla non suscipit, iure neque earum?
+          In the Free Books section, discover a collection of diverse genres, from thrilling adventures to insightful biographies, all at no cost! Whether you're into fiction, self-help, or history, these free titles offer something for every reader. Start your literary journey without spending a dime and expand your horizons today
           </p>
         </div>
 

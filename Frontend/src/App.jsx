@@ -7,8 +7,9 @@ import { Toaster } from "react-hot-toast";
 import { useAuth } from "./context/AuthProvider";
 
 function App() {
-  const [authUser, setAuthUser] = useAuth();
+  const { authUser, setAuthUser } = useAuth(); // Use the object destructuring
   console.log(authUser);
+
   return (
     <>
       <div className="dark:bg-slate-900 dark:text-white">

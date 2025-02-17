@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "sports",
+    "title": "Dream",
+    "price": "00",
+    "category": "Free",
+    "image": "https://images.unsplash.com/photo-1512820790803-83ca734da794"
+  },
+  {
+    "id": 2,
+    "name": "technology",
+    "title": "AI Revolution",
+    "price": "99",
+    "category": "Paid",
+    "image": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514"
+  },
+  {
+    "id": 3,
+    "name": "fiction",
+    "title": "Dreamscape",
+    "price": "00",
+    "category": "Free",
+    "image":"https://images.unsplash.com/photo-1512820790803-83ca734da794"
+  },
+  {
+    "id": 4,
+    "name": "history",
+    "title": "World Wars",
+    "price": "120",
+    "category": "Paid",
+    "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c"
+  },
+  {
+    "id": 5,
+    "name": "science",
+    "title": "Space Odyssey",
+    "price": "80",
+    "category": "Paid",
+    "image": "https://images.unsplash.com/photo-1516979187457-637abb4f9353"
+  },
+  {
+    "id": 6,
+    "name": "adventure",
+    "title": "Wild Frontier",
+    "price": "00",
+    "category": "Free",
+    "image": "https://images.unsplash.com/photo-1516979187457-637abb4f9353"
+  },
+  {
+    "id": 7,
+    "name": "fantasy",
+    "title": "Dragon’s Wrath",
+    "price": "60",
+    "category": "Paid",
+    "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66"
+  },
+  {
+    "id": 8,
+    "name": "biography",
+    "title": "Life of Legends",
+    "price": "00",
+    "category": "Free",
+    "image": "https://images.unsplash.com/photo-1524985069026-dd778a71c7b4"
+  },
+  {
+    "id": 9,
+    "name": "mystery",
+    "title": "Enigma Files",
+    "price": "75",
+    "category": "Paid",
+    "image": "https://images.unsplash.com/photo-1522092787785-d7ffb5dc1440"
+  },
+  {
+    "id": 10,
+    "name": "romance",
+    "title": "Heart’s Desire",
+    "price": "00",
+    "category": "Free",
+    "image": "https://images.unsplash.com/photo-1524985069026-dd778a71c7b4"
+  },
+  {
+    "id": 11,
+    "name": "thriller",
+    "title": "Edge of Fear",
+    "price": "85",
+    "category": "Paid",
+    "image": "https://images.unsplash.com/photo-1534081333815-ae5019106622"
+  },
+  {
+    "id": 12,
+    "name": "comedy",
+    "title": "Laugh Out Loud",
+    "price": "00",
+    "category": "Free",
+    "image":"https://images.unsplash.com/photo-1524985069026-dd778a71c7b4"
+  },
+  {
+    "id": 13,
+    "name": "drama",
+    "title": "Life’s Tapestry",
+    "price": "95",
+    "category": "Paid",
+    "image": "https://images.unsplash.com/photo-1463320898484-cdee8141c787"
+  },
+  {
+    "id": 14,
+    "name": "horror",
+    "title": "Nightmare Abyss",
+    "price": "70",
+    "category": "Paid",
+    "image": "https://images.unsplash.com/photo-1562589406-ed6a29fdcfeb"
+  },
+  {
+    "id": 15,
+    "name": "self-help",
+    "title": "Unlock Your Potential",
+    "price": "00",
+    "category": "Free",
+    "image": "https://images.unsplash.com/photo-1524985069026-dd778a71c7b4"
+  }
+]
