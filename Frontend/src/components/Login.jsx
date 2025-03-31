@@ -16,7 +16,7 @@ function Login() {
       password: data.password,
     };
     await axios
-      .post("https://book-store-app-one-ecru.vercel.app/user/login", userInfo)
+      .post("/login", userInfo)
       .then((res) => {
         console.log(res.data);
         if (res.data) {
